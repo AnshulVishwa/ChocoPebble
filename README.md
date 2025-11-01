@@ -1,9 +1,3 @@
-# This is my Project of ChocoPebble, and i want to create a readme file, create a beautifull radme file
-
-Here’s a beautiful README file for your **ChocoPebble** project, written in markdown. You can copy-paste this, and customize further!
-
-***
-
 # 🍫 ChocoPebble
 
 **ChocoPebble** is an immersive, animated ReactJS web app designed to indulge chocolate lovers! Enjoy handcrafted chocolates and creamy ice creams, all under one delicious roof. The lively interface uses captivating animations to create a fun, memorable experience.
