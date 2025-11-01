@@ -133,6 +133,8 @@ This project is for educational \& demo purposes. For commercial use, please con
 
 ## 🌐 Connect
 
+*** (Ctrl+Click onto the Links for better Experience) ***
+
 > Vidhi
 - [LinkedIN](https://www.linkedin.com/in/vidhiagrawa/)
 - [Github](https://www.github.com/vidhiagrawa/)
